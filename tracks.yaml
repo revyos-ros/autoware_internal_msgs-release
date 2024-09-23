@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/autoware_internal_msgs-release.git
 tracks:
   humble:
     actions:
