@@ -1,3 +1,32 @@
+## autoware_internal_msgs (jazzy) - 1.10.0-1
+
+The packages in the `autoware_internal_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy autoware_internal_msgs --override-release-repository-push-url git@github.com:revyos-ros/autoware_internal_msgs-release.git` on `Tue, 10 Jun 2025 18:14:09 -0000`
+
+These packages were released:
+- `autoware_internal_debug_msgs`
+- `autoware_internal_localization_msgs`
+- `autoware_internal_metric_msgs`
+- `autoware_internal_msgs`
+- `autoware_internal_perception_msgs`
+- `autoware_internal_planning_msgs`
+
+Version of package(s) in repository `autoware_internal_msgs`:
+
+- upstream repository: https://github.com/autowarefoundation/autoware_internal_msgs.git
+- release repository: https://github.com/revyos-ros/autoware_internal_msgs-release.git
+- rosdistro version: `1.10.0-1`
+- old version: `1.7.0-1`
+- new version: `1.10.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## autoware_internal_msgs (jazzy) - 1.7.0-1
 
 The packages in the `autoware_internal_msgs` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy autoware_internal_msgs --override-release-repository-push-url git@github.com:revyos-ros/autoware_internal_msgs-release.git` on `Fri, 07 Mar 2025 03:36:16 -0000`
